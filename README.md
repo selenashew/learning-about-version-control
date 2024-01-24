@@ -5,3 +5,5 @@ DSCI 310 practice to learn about version control.
 
 - Selena Shew
   - GitHub: [selenashew](https://github.com/selenashew)
+
+Solving merge conflicts is soooooo hard!
